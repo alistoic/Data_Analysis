@@ -1,0 +1,12 @@
+
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+dataframe-image
+scikit-learn
+xgboost
+shap
+jupyter
+ipython
