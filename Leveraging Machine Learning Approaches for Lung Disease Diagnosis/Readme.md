@@ -10,7 +10,6 @@ This project applies machine learning techniques to diagnose lung diseases using
 ├── Notebook/ # Jupyter notebook
 ├── Report/ # Final report, visualizations 
 ├── README.md/ 
-
 └── requirements.txt # Project dependencies
 
 
