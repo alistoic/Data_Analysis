@@ -12,9 +12,6 @@ This project applies machine learning techniques to diagnose lung diseases using
 ├── README.md/ 
 └── requirements.txt # Project dependencies
 
-
-text
-
 ## Project Phases
 
 1. **Exploratory Data Analysis** - Understanding data distribution, patterns, and correlations
