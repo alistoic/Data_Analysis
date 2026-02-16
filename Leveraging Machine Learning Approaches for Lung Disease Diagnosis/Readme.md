@@ -4,15 +4,20 @@ markdown
 ## Project Overview
 
 This project applies machine learning techniques to diagnose lung diseases using patient data. The analysis includes exploratory data analysis, data preprocessing, model training, and evaluation of multiple classification algorithms.
+# Leveraging Machine Learning Approaches for Lung Disease Diagnosis
+
+## Project Overview
+
+This project applies machine learning techniques to diagnose lung diseases using patient data. The analysis includes exploratory data analysis, data preprocessing, model training, and evaluation of multiple classification algorithms.
 
 ## Repository Structure
-├── Data/ # Dataset files
-├── Notebook/ # Jupyter notebook
-├── Report/ # Final report, visualizations
-├── README.md # Project documentation
-└── requirements.txt # Project dependencies
 
-text
+```text
+├── Data/             # Dataset files
+├── Notebook/         # Jupyter notebook
+├── Report/           # Final report, visualizations
+├── README.md         # Project documentation
+└── requirements.txt  # Project dependencies
 
 ## Project Phases
 
