@@ -30,15 +30,7 @@ text
 - Matplotlib, Seaborn
 - SHAP
 - Jupyter Notebook
-  
-  ## Results
-  
-  [Brief summary of key findings and model performance]
-  
-  ## How to Run
-1. Clone this repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run notebooks in order: 01 → 02 → 03 → 04
+
 
 
 
