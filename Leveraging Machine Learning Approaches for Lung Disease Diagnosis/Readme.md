@@ -6,10 +6,10 @@ This project applies machine learning techniques to diagnose lung diseases using
 
 ## Repository Structure
 
-├── Data/ # Dataset files (raw and processed)  
-├── Notebook/ # Jupyter notebooks for each analysis phase  
-├── Report/ # Final report, visualizations, and presentation  
-├── README.md/ # Dataset files (raw and processed)
+├── Data/ # Dataset files 
+├── Notebook/ # Jupyter notebook
+├── Report/ # Final report, visualizations 
+├── README.md/ 
 
 └── requirements.txt # Project dependencies
 
